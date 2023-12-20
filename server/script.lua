@@ -1,0 +1,1 @@
+print(`Example script wooo https://youtube.com/watch?v=TXoaSM0uQkA`)
