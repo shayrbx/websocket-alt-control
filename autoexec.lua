@@ -1,4 +1,4 @@
--- Replace 192.168.116.133 with the local IP to the device running the server as long as it's on the same network
+-- Replace 192.168.4.20 with the local IP to the device running the server as long as it's on the same network
 local Socket = WebSocket.connect("ws://192.168.4.20:3621")
 local Thread = coroutine.running()
 
